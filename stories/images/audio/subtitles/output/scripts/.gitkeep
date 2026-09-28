@@ -1,0 +1,19 @@
+animal-moral-stories
+│
+├── stories
+│   └── episode01.txt
+│
+├── scripts
+│   └── .gitkeep
+│
+├── images
+│   └── .gitkeep
+│
+├── audio
+│   └── .gitkeep
+│
+├── subtitles
+│   └── .gitkeep
+│
+└── output
+    └── .gitkeep
